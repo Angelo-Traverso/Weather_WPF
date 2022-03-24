@@ -1,0 +1,15 @@
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.exe.config
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.exe
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.pdb
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.AssemblyReference.cache
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\MainWindow.g.cs
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\App.g.cs
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication_MarkupCompile.cache
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication_MarkupCompile.lref
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\MainWindow.baml
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.g.resources
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.Properties.Resources.resources
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.GenerateResource.cache
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.CoreCompileInputs.cache
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.exe
+D:\Angelo Traverso\GitHub_Projects\WeatherApp_WPF\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.pdb
